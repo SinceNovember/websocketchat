@@ -54,7 +54,7 @@ message:后台提示内容,type:提示JSON，list:下棋的人数，以及观战
 最后还有一个与别人对战的五子棋，可以让其他人进行观战，并且有可以自己与人机进行对战。<br>
 ########################<br>
 使用方法：<br>
-下载好项目后，将文件夹中的src文件以及pom文件放到一个新的文件夹中，导入新文件夹，`webpapp`中有`file`中的`sql`文件，倒入此文件到数据库，修改`resource`文件的`jdbc.properties`,修改数据库账号密码，运行程序。<br>
+下载好项目后,导入文件夹，`webpapp`中有`file`中的`sql`文件，倒入此文件到数据库，修改`resource`文件的`jdbc.properties`,修改数据库账号密码，运行程序。<br>
 ########################<br>
 登陆界面:
 ![](https://github.com/SinceNovember/websockchat/blob/master/src/main/webapp/file/photo/login.png)
